@@ -1,0 +1,30 @@
+1 Rajesh Sharma Male 42 ₹ 70,000.00 4771-4568-5245-7189 Present
+2 Sonu Sharma Female 42 ₹ 1,00,000.00 8999-2417-8727-8271 Present
+3 Akansha Sharma Female 21 ₹ 1,00,000.00 0002-0003-0011-0021 Present
+4 Krishna Sharma Male 16 ₹ 4,00,000.00 5571-7166-9177-9277 Present
+5 Sparsh Male 19 ₹ 10,000.00 1778-7275-8862-2671 Present
+6 Anirudh Male 20 ₹ 10,000.00 7829-8288-9288-9892 Present
+7 Arjun Male 55 ₹ 10,000.00 9977-5378-7468-3773 Present
+8 Akansha' s Friends Female 22 ₹ 15,500.00 8786-8785-8788-6651 Present
+9 Kissu Sharma Male 23 ₹ 10,000.00 1686-8867-7867-9676 Present
+10 Krish Male 22 ₹ 15,000.00 5772-8929-8265-8266 Present
+11 Babblu Male 40 ₹ 70,000.00 1784-8881-1118-8399 Present
+12 Raju Sharma Male 41 ₹ 1,00,000.00 1171-8182-8381-9812 Present
+13 Mummy Female 20 ₹ 1,00,000.00 9442-2993-1192-9903 Present
+14 Papa Male 45 ₹ 1,00,000.00 6866-9372-1183-8281 Present
+15 Chacha Chaudhry Male 67 ₹ 10,000.00 6488-7275-8266-8882 Present
+16 Sabu Male 46 ₹ 10,000.00 4772-7266-7362-2662 Present
+17 Nobita Male 35 ₹ 30,000.00 1115-9972-9871-2666 Present
+18 SinChan Male 28 ₹ 10,000.00 6266-8271-8126-8272 Present
+19 Shizuka Female 16 ₹ 15,000.00 5571-7166-9177-9277 Present
+20 Naini Female 28 ₹ 28,000.00 6681-9218-7721-0171 Present
+21 Masao Male 28 ₹ 13,000.00 7421-8712-8721-8725 Present
+22 Sunio Male 35 ₹ 40,000.00 7711-9911-9992-0011 Present
+23 Kazama Male 28 ₹ 15,000.00 4411-9911-0119-3216 Present
+24 Gian Male 35 ₹ 35,000.00 1111-0222-8829-9232 Present
+25 Hiroshi Nohara Male 45 ₹ 43,000.00 4511-8821-8882-9288 Present
+26 BawChan Male 28 ₹ 15,590.00 8829-9882-9882-7729 Present
+27 Attu Sharma Female 21 ₹ 67,000.00 7777-1181-7718-8810 Present
+28 Kabir Male 32 ₹ 50,000.00 0001-0002-0003-0004 Present
+29 Takeshi Male 35 ₹ 20,000.00 3455-9870-0097-4455 Present
+30 Kenta Male 35 ₹ 10,000.00 3344-9839-8833-6653 Present
